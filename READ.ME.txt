@@ -1,0 +1,7 @@
+Two-class Classification (ResNet).ipynb -> Notebook contains code for Part 1
+
+Image Segmentation of Struck-out Words (U-Net).ipynb -> Notebook contains code for the Part 2 
+
+DATA: Cannot be attached as a major part of it (Bengali and Devanagari words) is not public but was handed to me by the 
+authors of a reference paper just to carry out this experiment.
+
