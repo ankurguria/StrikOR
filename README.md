@@ -22,10 +22,10 @@ This project manages the identification and processing of struck-out writings in
 
 ## Predictions
 - Detecting struck-out words:
-<img src="./images/strikeOutDetection.png" alt="d" width="1000"/>
+<img src="./images/strikeOutDetection.png" alt="d" width="1200"/>
 - Strike-out segmentation:
-<img src="./images/strikeOutSegmentation.png" alt="d" width="1000"/>
-<img src="./images/strikeOutSegmented2.png" alt="d" width="1000"/>
+<img src="./images/strikeOutSegmentation.png" alt="d" width="1200"/>
+<img src="./images/strikeOutSegmented2.png" alt="d" width="1200"/>
 
 
 ### References:
